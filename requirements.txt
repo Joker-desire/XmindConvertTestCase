@@ -1,0 +1,4 @@
+xmindparser
+jsonpath
+openpyxl
+pyqt5
